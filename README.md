@@ -1,6 +1,9 @@
 # 🎬 Análisis de Sentimiento en IMDB con NLP y Embeddings
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![NLP](https://img.shields.io/badge/NLP-Sentiment%20Analysis-green)](https://en.wikipedia.org/wiki/Sentiment_analysis)
 
 ### 👥 Colaboradores: **Emmanuel Gonzalez Gomez y Dalma Márquez.**
 
